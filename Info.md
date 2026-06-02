@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pavan
+# Hi, I'm Pavan
 
 Aspiring Full Stack Developer passionate about building web applications and continuously learning modern technologies.
 
